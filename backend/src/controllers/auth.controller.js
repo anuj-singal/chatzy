@@ -97,7 +97,7 @@ export const login = async (req, res) => {
 };
 
 export const logout = (_, res) => {
-  res.cookie("jwt", "", { maxAge: 0 });
+  res.cookie("jwt", "", { maxAge: 0 }); // jwt is named by us to cookie in utils.js when creating generate token function 
   res.status(200).json({ message: "Logged out successfully" });
 };
 
