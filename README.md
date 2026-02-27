@@ -1,10 +1,9 @@
-# 💬 Chatzy – Real-Time Messaging Platform
+# ✨ Chatzy 💬 – Real-Time Messaging Platform ✨
 
 [![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Render-green?logo=render)](https://chatzy-0u8l.onrender.com/)
 [![GitHub Repo](https://img.shields.io/badge/📂_GitHub_Repo-black?logo=github)](https://github.com/anuj-singal/chatzy)
-![License](https://img.shields.io/badge/License-MIT-yellow)
 
----
+
 
 A modern **full-stack real-time chat application** built with the **MERN Stack**, powered by **WebSockets**, secure **JWT authentication**, and production-ready architecture.
 
@@ -12,10 +11,17 @@ Chatzy delivers seamless **real-time communication**, presence detection, media 
 
 ---
 
+
+<p align="center">
+  <img src="./Readme_img.png" alt="Chatzy Banner" width="1000"/>
+</p>
+
+---
+
+
 ## 🌐 Live Demo
 
-👉 **Try it here:**  
-https://chatzy-0u8l.onrender.com/
+Live Project: [Chatzy on Render](https://chatzy-0u8l.onrender.com/)
 
 > 
 
@@ -142,14 +148,19 @@ Open:
 
 ---
 
-## 👨‍💻 Author
+## 📜 License
 
-**Anuj Singal**  
-Full-Stack MERN Developer  
-
-GitHub: https://github.com/anuj-singal  
-LinkedIn: https://www.linkedin.com/in/anujsingal/
+MIT License
+Copyright (c) 2026 Anuj Singal
 
 ---
 
-<p align="center">⭐ If you like Chatzy, consider giving it a star!</p>
+## 👨‍💻 Author
+
+[![Anuj Singal](https://img.shields.io/badge/Anuj%20Singal-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anuj-singal)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anujsingal/)
+
+---
+
+<p align="center">⭐ If you like this project, consider giving it a star on GitHub!</p>
+
